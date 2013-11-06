@@ -1,0 +1,69 @@
+<%-- any content can be specified here e.g.: --%>
+<div id="footer">
+    <div class="boxes">
+        <!-- Begin Shell -->
+        <div class="shell">
+            <div class="box post-box">
+                <h2>Sobre</h2>
+                <div class="box-entry">                    
+                    <p>Trabalho conclusão da Disciplina SOA. <br/>Alunos: <br/>Orlando José da Silva Júnior (orlandojsjr@gmail.com) <br/>Pedro Nelson  Otero dos Santos (pedrooterogpe@gmail.com)</p>
+                    <div class="cl">&nbsp;</div>
+                </div>
+            </div>
+            <div class="box social-box">
+                <h2>Social</h2>
+                <ul>
+                    <li><a href="#" title="Facebook"><img src="css/images/social-icon1.png" alt="Facebook" /><span>Facebook</span><span class="cl">&nbsp;</span></a></li>
+                    <li><a href="#" title="Twitter"><img src="css/images/social-icon2.png" alt="Twitter" /><span>Twitter</span><span class="cl">&nbsp;</span></a></li>
+                    <li><a href="#" title="Behance"><img src="css/images/social-icon3.png" alt="Behance" /><span>Behance</span><span class="cl">&nbsp;</span></a></li>
+                    <li><a href="#" title="RSS"><img src="css/images/social-icon4.png" alt="RSS" /><span>RSS</span><span class="cl">&nbsp;</span></a></li>
+                    <li><a href="#" title="Digg"><img src="css/images/social-icon5.png" alt="Digg" /><span>Digg</span><span class="cl">&nbsp;</span></a></li>
+                    <li><a href="#" title="Flickr"><img src="css/images/social-icon6.png" alt="Flickr" /><span>Flickr</span><span class="cl">&nbsp;</span></a></li>
+                    <li><a href="#" title="Blogger"><img src="css/images/social-icon7.png" alt="Blogger" /><span>Blogger</span><span class="cl">&nbsp;</span></a></li>
+                </ul>
+                <div class="cl">&nbsp;</div>
+            </div>
+            <div class="box">
+                <h2>Informação</h2>
+                <ul>
+                    <li><a href="#" title="Special Offers">Ofertas</a></li>                    
+                    <li><a href="#" title="Terms &amp; Conditions">Termos e condições</a></li>
+                    <li><a href="#" title="Contact Us">Contato</a></li>
+                    <li><a href="#" title="Log In">Log In</a></li>
+                    <li><a href="#" title="Account">Sua Conta</a></li>                    
+                </ul>
+            </div>
+            <div class="box last-box">
+                <h2>Categories</h2>
+                <ul>
+                    <li><a href="#" title="Mens">Home</a></li>
+                    <li><a href="#" title="Ladies">Pedidos</a></li>
+                    <li><a href="#" title="Kids">Logs</a></li>                    
+                </ul>
+            </div>
+            <div class="cl">&nbsp;</div>
+        </div>
+        <!-- End Shell -->
+    </div>
+    <div class="copy">
+        <!-- Begin Shell -->
+        <div class="shell">
+            <div class="carts">
+                <ul>
+                    <li><span>Aceitamos</span></li>
+                    <li><a href="#" title="PayPal"><img src="css/images/cart-img1.jpg" alt="PayPal" /></a></li>
+                    <li><a href="#" title="VISA"><img src="css/images/cart-img2.jpg" alt="VISA" /></a></li>
+                    <li><a href="#" title="MasterCard"><img src="css/images/cart-img3.jpg" alt="MasterCard" /></a></li>
+                </ul>
+            </div>
+            <p>&copy; Sitename.com. Design by <a href="http://css-free-templates.com/">CSS-FREE-TEMPLATES.COM</a></p>
+            <div class="cl">&nbsp;</div>
+        </div>
+        <!-- End Shell -->
+    </div>
+</div>
+<!-- End Footer -->
+</div>
+<!-- End Wrapper -->
+</body>
+</html>

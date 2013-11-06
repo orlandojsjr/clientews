@@ -1,0 +1,46 @@
+<%-- any content can be specified here e.g.: --%>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<head>
+    <title>Cliente WS</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="<c:url value="css/images/favicon.ico"/>" />
+    <link rel="stylesheet" href="<c:url value="css/style.css"/>" type="text/css" media="all" />
+
+    <script src="<c:url value="js/jquery-1.6.2.min.js"/>" type="text/javascript" charset="utf-8"></script>
+    <!--[if IE 6]>
+            <script src="<c:url value="js/DD_belatedPNG-min.js"/>" type="text/javascript" charset="utf-8"></script>
+    <![endif]-->
+    <script src="<c:url value="js/cufon-yui.js"/>" type="text/javascript"></script>
+    <script src="<c:url value="js/Myriad_Pro_700.font.js"/>" type="text/javascript"></script>
+    <script src="<c:url value="js/jquery.jcarousel.min.js"/>" type="text/javascript" charset="utf-8"></script>
+    <script src="<c:url value="js/functions.js"/>" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+    <!-- Begin Wrapper -->
+    <div id="wrapper">
+        <!-- Begin Header -->
+        <div id="header">
+            <!-- Begin Shell -->
+            <div class="shell">
+                <h1 id="logo"><a class="notext" href="#" title="cliente">Cliente</a></h1>                
+                <div class="cl">&nbsp;</div>                
+            </div>
+            <!-- End Shell -->
+        </div>
+        <!-- End Header -->
+        <!-- Begin Navigation -->
+        <div id="navigation">
+            <!-- Begin Shell -->
+            <div class="shell">
+                <ul>
+                    <li class="active"><a href="<c:url value="/"/>" title="Home">Home</a></li>                    
+                    <li><a href="<c:url value="/pedidos"/>">Pedidos</a></li>
+                    <li><a href="<c:url value="/logs"/>">Log</a></li>
+                </ul>
+                <div class="cl">&nbsp;</div>
+            </div>
+            <!-- End Shell -->
+        </div>
+        <!-- End Navigation -->

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8084/fornecedor/Pedido?WSDL" uri="src/conf/xml-resources/web-service-references/Pedido/wsdl/localhost_8084/fornecedor/Pedido.wsdl"/>
+    <system systemId="http://localhost:8084/fornecedor/Pedido?xsd=1" uri="src/conf/xml-resources/web-service-references/Pedido/wsdl/localhost_8084/fornecedor/Pedido.xsd_1.xsd"/>
+    <system systemId="http://default-environment-eipvd6a5qq.elasticbeanstalk.com/PedidoWS?WSDL" uri="src/conf/xml-resources/web-service-references/PedidoWS/wsdl/default-environment-eipvd6a5qq.elasticbeanstalk.com/PedidoWS.wsdl"/>
+    <system systemId="http://default-environment-eipvd6a5qq.elasticbeanstalk.com:80/PedidoWS?xsd=1" uri="src/conf/xml-resources/web-service-references/PedidoWS/wsdl/default-environment-eipvd6a5qq.elasticbeanstalk.com_80/PedidoWS.xsd_1.xsd"/>
+</catalog>
