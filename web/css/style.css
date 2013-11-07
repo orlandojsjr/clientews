@@ -165,7 +165,7 @@ h1#logo a { width: 214px; height: 69px; background: url('images/logo.png') no-re
 
 #products { padding-top: 15px; padding-bottom: 13px; }
 #products h2 { margin-bottom: 7px; }
-.product { width: 165px; float: left; display: inline; padding: 0 12px 22px 14px; position: relative; height: 25%; }
+.product { width: 165px; float: left; display: inline; padding: 0 12px 22px 14px; position: relative; height: 250px; }
 .product img { border: 1px solid #e0e0e0; }
 .product .price { position: absolute; top: 116px; right: 15px; background: url('images/price-left.png') no-repeat 0 0; }
 .product .price .inner { background: url('images/price-right.png') no-repeat right 0; height: 44px; padding-top: 6px; font-size: 17px; }
